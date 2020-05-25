@@ -9,6 +9,8 @@ public class FirstSamplePgm {
 	System.out.println("check in eclipse");
 	System.out.println("check conflict");
 	System.out.println("check");
+	System.out.println("check from sathya");
+	System.out.println("check conflict by sathya");
 	}
 
 }
